@@ -31,7 +31,7 @@ $$
 
 I used the `mblk` macro defined in `.vscode/markdown.code-snippets` to create that.
 
-Inline math works too: $\begin{smallmatrix} a \\ b \\ c \end{smallmatrix}
+Inline math works too: $\begin{smallmatrix} a \\ b \\ c \end{smallmatrix}$
 
 If you need a graph, you can use the `graph2d` macro. I used it to generate figure \ref{fig:example_graph}
 
