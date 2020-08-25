@@ -1,6 +1,6 @@
 # Demo of my school notetaking & distribution system
 
-Please see [this post](https://retrylife.ca/post/68df02l4) for information.
+Please see [this post](https://retrylife.ca/post/68df02l4) for information. Go to [ewpratten.retrylife.ca/school-notes-demo/](https://ewpratten.retrylife.ca/school-notes-demo/) to see a live demo of the CI pipeline output.
 
 ## Usage
 
