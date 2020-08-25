@@ -2,6 +2,8 @@
 
 Please see [this post](https://retrylife.ca/post/68df02l4) for information. Go to [ewpratten.retrylife.ca/school-notes-demo/](https://ewpratten.retrylife.ca/school-notes-demo/) to see a live demo of the CI pipeline output.
 
+A note about the generated webpage: Some files are listed that are inaccessible. This is simply because I haven't defined any rules for `tree` to follow when creating the index.html page. I don't really see the need to since I only ever share direct links to files with other people.
+
 ## Usage
 
 The following packages are required on the host system:
@@ -24,4 +26,4 @@ New courses need their own package (you can just copy another course, and update
 
 ## CI
 
-Upon push to the `master` branch, the project will be built, and have its files pushed automatically to the `gh_pages` branch.
+Upon push to the `master` branch, the project will be built, and have its files pushed automatically to the `gh_pages` branch. 
